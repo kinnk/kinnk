@@ -1,6 +1,11 @@
-Header
 
-About me
+I'm beginner Fronted developer
 
 ### Languages and Tools
-![React](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![HTML](https://img.shields.io/badge/-HTML-#FF5733?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-#0096FF?style=for-the-badge&logo=CSS)
+![SCSS](https://img.shields.io/badge/-SCSS-#CCCCFF?style=for-the-badge&logo=SCSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-#FF5733?style=for-the-badge&logo=JavaScript)
+![React JS](https://img.shields.io/badge/-ReactJS-#00FFFF?style=for-the-badge&logo=React)
+
+
